@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>多平台线上博弈娱乐平台</title>
+  <style>
+    body {
+      background: #0d0d0d;
+      color: #fff;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    h1 {
+      color: #FFD700;
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    .tagline {
+      font-size: 1.2rem;
+      color: #ccc;
+      margin-bottom: 30px;
+    }
+    .platforms {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin: 20px 0;
+    }
+    .tag {
+      background: linear-gradient(135deg, #ff416c, #ff4b2b);
+      padding: 10px 20px;
+      border-radius: 30px;
+      font-weight: bold;
+      font-size: 1rem;
+      box-shadow: 0 0 10px rgba(255, 64, 0, 0.5);
+    }
+    .link-button {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 15px 30px;
+      background: #1db954;
+      color: white;
+      text-decoration: none;
+      font-size: 1.2rem;
+      border-radius: 50px;
+      transition: 0.3s ease;
+    }
+    .link-button:hover {
+      background: #1ed760;
+    }
+    .section {
+      margin-top: 50px;
+    }
+    .link-box {
+      background: #1a1a1a;
+      border-radius: 12px;
+      padding: 20px;
+      margin: 15px auto;
+      width: 90%;
+      max-width: 400px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    }
+    .link-box a {
+      color: #00ffcc;
+      font-size: 1rem;
+      text-decoration: none;
+    }
+    .telegram-button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #0088cc;
+      color: white;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .telegram-button:hover {
+      background: #00aaff;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎰 多平台线上博弈娱乐平台 🎰</h1>
+  <p class="tagline">一个入口，五大品牌任你选</p>
+
+  <div class="platforms">
+    <div class="tag">#Atas</div>
+    <div class="tag">#Tpower</div>
+    <div class="tag">#Winbox</div>
+    <div class="tag">#Aone</div>
+    <div class="tag">#Vworld</div>
+  </div>
+
+  <a class="link-button" href="https://www.winbox88my3.com/" target="_blank">
+    📥Download➜Register Free📥 免费注册
+  </a>
+
+  <div class="section">
+    <div class="link-box">
+      <p><strong>💡 平台入口一：</strong></p>
+      <a href="https://www.winbox88my3.com/" target="_blank">🔗 Winbox 官方入口</a>
+    </div>
+    <div class="link-box">
+      <p><strong>🚀 下载专区（通用安装包）：</strong></p>
+      <a href="https://www.winbox88my3.com/apk" target="_blank">📱 安卓 APK 下载</a><br/>
+      <a href="https://www.winbox88my3.com/ios" target="_blank">🍎 iOS 版入口</a>
+    </div>
+    <div class="link-box">
+      <p><strong>📢 加入客服或群组：</strong></p>
+      <a class="telegram-button" href="https://t.me/你的客服ID" target="_blank">Telegram 客服</a><br/>
+      <a class="telegram-button" href="https://t.me/你的群组ID" target="_blank">Telegram 玩家交流群</a>
+    </div>
+  </div>
+</body>
+</html>
